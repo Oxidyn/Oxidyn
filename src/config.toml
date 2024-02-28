@@ -1,0 +1,8 @@
+[[cloudflare]]
+api_token = "YOUR_CLOUDFLARE_API_TOKEN"
+zone_id = "YOUR_CLOUDFLARE_ZONE_ID"
+record_id = "YOUR_CLOUDFLARE_RECORD_ID"
+
+[[duckdns]]
+token = "YOUR_DUCKDNS_TOKEN"
+domain = "YOUR_DUCKDNS_DOMAIN"
